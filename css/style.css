@@ -1,0 +1,27 @@
+#drum-machine {
+    margin: auto;
+    width: 320px;
+    height: 200px;
+}
+h1, h6 {
+  text-align: center;
+}
+#display {
+  height: 120px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#display1 {
+  height: 80px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  height: 80px;
+  width: 100px;
+}
